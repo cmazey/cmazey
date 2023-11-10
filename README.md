@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cmazey
 - 👀 I’m interested in coding a fake command line using Javascript.
 - 🌱 I’m currently learning Python, and Astro
-- AP Computer Science Student (Not Official yet)
+- AP Computer Science Student
 
 <!---
 cmazey/cmazey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
